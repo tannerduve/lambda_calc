@@ -1,0 +1,1 @@
+Lean4 implementation of the simply typed lambda calculus with booleans. Work in progress, currently working on finishing proof of type soundness and plan to further extend the calculus and/or add a denotational semantics
